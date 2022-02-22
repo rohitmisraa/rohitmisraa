@@ -21,8 +21,6 @@ Skills: NEXT JS / REACT / JS / PHP / TAILWIND CSS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohitmra)  
 
-![GitHub metrics](https://metrics.lecoq.io/rohitmra)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohitmra)  
 
 ![Profile views](https://gpvc.arturio.dev/rohitmra)  
