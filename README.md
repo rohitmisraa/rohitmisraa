@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rohit Mishra
 #### I am a student and Full stack developer
-![I am a student and Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![I am a student and Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I make cool websites and Mobile apps and have created on almost 10+ projects.
 
